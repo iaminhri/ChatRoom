@@ -1,0 +1,3 @@
+pip install termcolor
+pip install pwntools
+
