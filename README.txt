@@ -43,5 +43,3 @@ Computer0: python3 client.py 192.168.2.4 7777
 
 # note: lastly to finish it off, if multiple instances of clients were to run repeatedly, use the following command to kill all process regarding this client server program
 killall -9 python3
-
-I hope I didn't miss anything. Thank you for your time :D.
